@@ -1,0 +1,10 @@
+int16 pwm
+int32 id
+float32 pos
+float32 speed
+float32 current
+int16 mode
+float32 kp
+float32 ki
+float32 kd
+float32 limit_output
